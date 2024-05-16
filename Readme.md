@@ -16,7 +16,7 @@
 To download the template and start developing run the following commands
 
 ```bash
-  git clone https://github.com/DibrovGleb/Vite-react-ts-ghpages-template
+  git clone https://github.com/DibrovGleb/Vite-react-ts-ghpages-template.git
 ```
 ```bash
   cd Vite-react-ts-ghpages-template
